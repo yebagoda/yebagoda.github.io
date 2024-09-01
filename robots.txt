@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yebagoda.github.io/sitemap.html.gz
+Sitemap: https://yebagoda.github.io/app/sitemap.html.gz
+Sitemap: https://yebagoda.github.io/assets/sitemap.html.gz
+Sitemap: https://yebagoda.github.io/css/sitemap.html.gz
+Sitemap: https://yebagoda.github.io/includes/sitemap.html.gz
+Sitemap: https://yebagoda.github.io/item/sitemap.html.gz
+Sitemap: https://yebagoda.github.io/src/sitemap.html.gz
